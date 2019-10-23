@@ -9,3 +9,7 @@ See [here](https://maker.pro/arduino/tutorial/how-to-use-mbed-rtos-features-on-t
 * [Thread](https://os.mbed.com/docs/mbed-os/v5.14/apis/thread.html) 
 * [Mutex](https://os.mbed.com/docs/mbed-os/v5.14/apis/mutex.html) 
 * [Semaphore](https://os.mbed.com/docs/mbed-os/v5.14/apis/semaphore.html) 
+
+
+
+*Note that Mbed CLI is not support to Arduino BLE 33 board. Because, Arduino BLE 33 board is not include [DAPLink I/F](https://os.mbed.com/handbook/DAPLink)*
