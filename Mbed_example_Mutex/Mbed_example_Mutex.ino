@@ -1,5 +1,3 @@
-#include <mbed.h>
-
 #define BUFF_SIZE 8
 
 using namespace rtos;

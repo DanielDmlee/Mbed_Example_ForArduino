@@ -1,5 +1,11 @@
-#include <mbed.h>
 
+/*
+ * 
+ * https://maker.pro/arduino/tutorial/how-to-use-mbed-rtos-features-on-the-arduino-nano-33-ble
+ * How to Use Mbed RTOS Features on the Arduino Nano 33 BLE
+ * 
+ */
+ 
 #define BUFF_SIZE 8
 
 using namespace rtos;

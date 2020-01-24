@@ -1,5 +1,3 @@
-#include <mbed.h>
-
 unsigned long timech, timech_s, timech_e;
 
 void setup()

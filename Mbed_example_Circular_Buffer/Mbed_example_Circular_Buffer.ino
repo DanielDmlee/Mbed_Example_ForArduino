@@ -1,5 +1,3 @@
-#include <mbed.h>
-
 using namespace mbed;
 
 #define BUF_SIZE    10
